@@ -11,6 +11,11 @@ a {
 ul {
     list-style-type: none;
 }
+
+* {
+    scroll-behavior: smooth;
+    scroll-padding-top: 100px; 
+  }
 .header-section {
     position: fixed;
     width: 100%;
